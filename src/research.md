@@ -10,7 +10,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 </p>
 
 ## Publications
-
+    
 === "Journals"
     <ol align="justify" reversed>
     <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>]
@@ -26,6 +26,11 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 === "Proceedings"
     <ol align="justify" reversed>
     <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Mirroring of Synchronization in Multilayer Configuration of Kuramoto Oscillators". <i>Advances in Nonlinear Dynamics, Volume II. Ed. by Walter Lacarbonara. Springer Nature Switzerland, 2024, pp. 131–141</i>. [<a href="https://doi.org/10.1007/978-3-031-50639-0_12">Link</a>]
+    </ol>
+
+=== "Under-review"
+    <ol align="justify" reversed>
+    <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". April 2026.
     </ol>
 
 ## Others
