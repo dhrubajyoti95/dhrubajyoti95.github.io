@@ -1,5 +1,7 @@
 ---
 icon: lucide/square-user
+hide:
+  - navigation
 ---
 # Home
 

@@ -1,5 +1,7 @@
 ---
 icon: lucide/file-user
+hide:
+  - navigation
 ---
 
 !!! note "Link"

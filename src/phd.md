@@ -1,4 +1,10 @@
-# Details of PhD
+---
+icon: lucide/backpack
+hide:
+  - navigation
+---
+
+# PhD Details
 
 !!! info "Title"
     <p>Emergent Dynamics in Large-ordered Complex Systems</p>

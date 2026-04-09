@@ -32,8 +32,8 @@ features = [
     # Zensical includes an announcement bar. This feature allows users to
     # dismiss it when they have read the announcement.
     # https://zensical.org/docs/setup/header/#announcement-bar
-    "announce.dismiss",
-
+    "announce.dismiss","navigation.path",
+	
     # If you have a repository configured and turn on this feature, Zensical
     # will generate an edit button for the page. This works for common
     # repository hosting services.
@@ -175,15 +175,14 @@ features = [
 # - https://zensical.org/docs/setup/colors/
 # ----------------------------------------------------------------------------
 [[project.theme.palette]]
-scheme = "default"
-toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
-
-[[project.theme.palette]]
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
 
 [project.theme.icon]
 logo = "lucide/crown"

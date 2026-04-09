@@ -1,5 +1,7 @@
 ---
 icon: lucide/book-type
+hide:
+  - navigation
 ---
 
 !!! note "At IIT Kharagpur"

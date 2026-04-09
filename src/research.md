@@ -1,5 +1,7 @@
 ---
 icon: lucide/atom
+hide:
+  - navigation
 ---
 # Research
 
