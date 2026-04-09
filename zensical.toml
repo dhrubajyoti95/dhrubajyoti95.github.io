@@ -2,7 +2,7 @@
 docs_dir = "src"
 site_dir = "docs"
 
-site_name = "Dhrubajyoti Biswas, Ph.D. | Institute Postdoctoral Fellow, IIT Kharagpur."
+site_name = "Dhrubajyoti Biswas, PhD"
 site_description = "The personal academic website of Dhrubajyoti Biswas"
 site_author = "Dhrubajyoti Biswas"
 site_url = "https://dhrubajyoti98.github.io"
@@ -205,3 +205,6 @@ generic = true
 [project.markdown_extensions.pymdownx.superfences]
 [project.markdown_extensions.pymdownx.tabbed]
 alternate_style = true
+
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.md_in_html]
