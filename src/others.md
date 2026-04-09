@@ -3,10 +3,10 @@ icon: lucide/backpack
 ---
 !!! info "Awards & Grants"
     <ul align="justify">
-    <li>Institute Postdoctoral Fellowship, IIT Kharagpur (Awarded December 2025).
+    <li>Institute Postdoctoral Fellowship, IIT Kharagpur (Awarded: December 2025).
     <li>Travel grant (500 Euros) to attend QSYNC25.
     <li>Travel grant (600 USD) to attend WINQ Program in Complex & Quantum Systems 2024.
-    <li>Institute fellowship (HTRA) for PhD (2019 - 2024) & MCM Scholarship for MSc (2017 - 2019), IIT Madras.
+    <li>Institute fellowship (HTRA) for PhD (2019 &mdash; 2024) & MCM Scholarship for MSc (2017 &mdash; 2019), IIT Madras.
     </ul>
 
 
@@ -19,5 +19,5 @@ icon: lucide/backpack
 
 !!! info "Professional Affiliations"
     <ul align="justify">
-    <li> Member (January 2025 - now), Institute of Physics, UK
+    <li> Member (January 2025 &mdash; <b>now</b>), Institute of Physics, UK
     </ul>
