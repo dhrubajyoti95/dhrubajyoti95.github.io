@@ -2,7 +2,7 @@
 docs_dir = "src"
 site_dir = "docs"
 
-site_name = "Dhrubajyoti Biswas, PhD"
+site_name = "Dhrubajyoti Biswas"
 site_description = "The personal academic website of Dhrubajyoti Biswas"
 site_author = "Dhrubajyoti Biswas"
 site_url = "https://dhrubajyoti98.github.io"
