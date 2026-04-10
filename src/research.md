@@ -30,7 +30,7 @@ hide:
 
     === "Pre-prints"
         <ol align="justify" reversed>
-        <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". April 2026.
+        <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". April 2026. [<a href="git@github.com:dhrubajyoti95/dhrubajyoti95.github.io.git">Link</a>]
         </ol>
 
 !!! example "Others"
