@@ -5,7 +5,7 @@ hide:
 ---
 
 !!! note "At IIT Kharagpur"
-    Teaching Assistant for PH19003 (1st year Physics Lab).
+    Teaching Assistant for PH19003 (1st year Physics Lab), Spring 2026.
 
 !!! note "At IIT Madras"
     <ul align="justify">
