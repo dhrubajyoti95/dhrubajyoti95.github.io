@@ -8,7 +8,7 @@ hide:
 !!! success "Bio"
     <p align="justify">
     Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>.
-    I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my M.Sc. and Ph.D. in Physics (as a dual degree) at the <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of dynamical systems.
+    I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my MSc and PhD in Physics at the <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of complex dynamical systems.
     </p>
 
     === "Experience"

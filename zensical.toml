@@ -5,7 +5,7 @@ site_dir = "docs"
 site_name = "Dhrubajyoti Biswas"
 site_description = "The personal academic website of Dhrubajyoti Biswas"
 site_author = "Dhrubajyoti Biswas"
-site_url = "https://dhrubajyoti98.github.io"
+site_url = "https://dhrubajyotibiswas.in"
 copyright = "Copyright &copy; 2026 Dhrubajyoti Biswas"
 
 extra_javascript = [
