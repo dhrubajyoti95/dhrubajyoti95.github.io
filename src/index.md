@@ -15,7 +15,7 @@ hide:
         <ul align="justify" reversed>
         <li>Institute Postdoctoral Fellow<br><i>January 1, 2026 &mdash; <b>now</b></i> <br> <b>Indian Institute of Technology Kharagpur</b></li>
         <li>Research Associate-I & Research Scientist-I <br><i>September 17, 2024 &mdash; December 30, 2025</i><br> <b>National Brain Research Centre Gurgaon</b></li>
-        <li>Research Intern.<br><i>May 18, 2018 &mdash; July 13, 2018</i><br> <b>Indian Institute of Science Education and Research Kolkata</b></li>
+        <li>Research Intern<br><i>May 18, 2018 &mdash; July 13, 2018</i><br> <b>Indian Institute of Science Education and Research Kolkata</b></li>
         </ul>
 
     === "Education"
@@ -24,9 +24,11 @@ hide:
         <li><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">BSc with Hons. in Physics</a><br><i>August 2, 2014 &mdash; June 30, 2017</i><br><b>St. Xavier's College, Kolkata</b></li>
         </ul>
 
+    For more details, take a look at my [CV](resume.md).
+
 !!! Note "Contact"
     <p align="justify">
-    <b>Office</b>: Room C-113, IIT Kharagpur, West Bengal, 721302, India.</br>
-    <b>Email</b>: dhrubajyotibiswas95 [at] gmail.com; dhrubajyoti [at] phy.iitkgp.ac.in.
+    <b>Office</b>: Room C-113, IIT Kharagpur, West Bengal, 721302, India. <a href="https://maps.app.goo.gl/MpVKUL4dvfP38GXa7">[Location]</a></br>
+    <b>Email</b>: <a href="mailto:dhrubajyotibiswas95@gmail.com">dhrubajyotibiswas95@gmail.com</a>, <a href="dhrubajyoti@phy.iitkgp.ac.in">dhrubajyoti@phy.iitkgp.ac.in</a>.
     </p>
 
