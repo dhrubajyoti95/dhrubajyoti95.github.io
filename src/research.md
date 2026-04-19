@@ -28,10 +28,12 @@ hide:
         <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Mirroring of Synchronization in Multilayer Configuration of Kuramoto Oscillators". <i>Advances in Nonlinear Dynamics, Volume II. Ed. by Walter Lacarbonara. Springer Nature Switzerland, 2024, pp. 131–141</i>. [<a href="https://doi.org/10.1007/978-3-031-50639-0_12">Link</a>]
         </ol>
 
-    === "Pre-prints"
+    === "Under-review"
         <ol align="justify" reversed>
         <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". April 2026. [<a href="git@github.com:dhrubajyoti95/dhrubajyoti95.github.io.git">Link</a>]
         </ol>
+
+    For more details, check out my <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">Google Scholar</a>.
 
 !!! example "Others"
     === "Conferences"
