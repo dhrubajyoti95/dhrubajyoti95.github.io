@@ -24,7 +24,7 @@ hide:
         <li><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">BSc with Hons. in Physics</a><br><i>August 2, 2014 &mdash; June 30, 2017</i><br><b>St. Xavier's College, Kolkata</b></li>
         </ul>
 
-    For more details, take a look at my [CV](resume.md).
+    For more details, take a look at my [resume](resume.md).
 
 !!! Note "Contact"
     <p align="justify">
