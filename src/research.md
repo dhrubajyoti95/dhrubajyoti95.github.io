@@ -50,7 +50,7 @@ hide:
         <li> <b>Conference on Nonlinear Systems and Dynamics 2019</b>, IIT Kanpur, India; <em>Contribution: Poster presentation</em>. [<a href="https://sites.google.com/view/cnsd19/">Link</a>]
         </ol>
 
-    === "Schools, Workshops, etc."
+    === "Schools/Workshops"
         <ol align="justify" reversed>
         <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited oral presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>, <a href="https://www.youtube.com/watch?v=nWo3LeZeL3o">Video</a>]
         <li> <b>8th Mediterranean School of Complex Networks 2023</b>, Catania, Italy. [<a href="https://mediterraneanschoolcomplex.net/2023.html">Link</a>]
