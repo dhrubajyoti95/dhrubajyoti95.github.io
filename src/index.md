@@ -20,8 +20,8 @@ hide:
 
     === "Education"
         <ul align="justify" reversed>
-        <li><a href="/phd/index.html">MSc-PhD (Dual Degree) in Physics</a><br> <i>July 24, 2017 &mdash; July 18, 2024</i><br> <b>Indian Institute of Technology Madras</b></li>
-        <li><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">BSc with Hons. in Physics</a><br><i>August 2, 2014 &mdash; June 30, 2017</i><br><b>St. Xavier's College, Kolkata</b></li>
+        <li>MSc-PhD (Dual Degree) in Physics <a href="/phd/index.html">[Link]</a><br> <i>July 24, 2017 &mdash; July 18, 2024</i><br> <b>Indian Institute of Technology Madras</b></li>
+        <li>BSc with Hons. in Physics<br><i>August 2, 2014 &mdash; June 30, 2017</i><br><b>St. Xavier's College, Kolkata</b></li>
         </ul>
 
     For more details, take a look at my [resume](resume.md).
