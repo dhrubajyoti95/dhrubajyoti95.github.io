@@ -52,6 +52,7 @@ hide:
 
     === "Schools/Workshops"
         <ol align="justify" reversed>
+        <li> <b>One-day workshop on Multiscale Modelling with MOOSE 2026</b>, TCG CREST, India. [<a href="https://www.mooseneuro.org/workshops/onedayworkshop-kolkata2026/">Link</a>]
         <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited oral presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>, <a href="https://www.youtube.com/watch?v=nWo3LeZeL3o">Video</a>]
         <li> <b>8th Mediterranean School of Complex Networks 2023</b>, Catania, Italy. [<a href="https://mediterraneanschoolcomplex.net/2023.html">Link</a>]
         <li> <b>Symposium on Epidemic Modelling 2022</b>, IIT Madras, India; <em>Contribution: Part of organization team</em>. [<a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">Link</a>]
