@@ -13,7 +13,7 @@ hide:
 
     === "Experience"
         <ul align="justify" reversed>
-        <li>Institute Postdoctoral Fellow<br><i>January 1, 2026 &mdash; <b>now</b></i> <br> <b>Indian Institute of Technology Kharagpur</b></li>
+        <li>Postdoctoral Fellow<br><i>January 1, 2026 &mdash; <b>now</b></i> <br> <b>Indian Institute of Technology Kharagpur</b></li>
         <li>Research Associate-I & Research Scientist-I <br><i>September 17, 2024 &mdash; December 30, 2025</i><br> <b>National Brain Research Centre Gurgaon</b></li>
         <li>Research Intern<br><i>May 18, 2018 &mdash; July 13, 2018</i><br> <b>Indian Institute of Science Education and Research Kolkata</b></li>
         </ul>

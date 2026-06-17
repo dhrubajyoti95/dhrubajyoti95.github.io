@@ -21,5 +21,6 @@ hide:
 
 !!! info "Professional Affiliations"
     <ul align="justify">
-    <li> Member (January 2025 &mdash; <b>now</b>), Institute of Physics, UK
+    <li> Member (January 2025 &mdash; <b>now</b>), <a href="https://www.iop.org/">Institute of Physics, UK</a>
+    <li> Member (June 2026 &mdash; <b>now</b>), <a href="https://cssociety.org/">Complex Systems Society</a>
     </ul>

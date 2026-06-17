@@ -10,7 +10,7 @@ hide:
     My research primarily deals with high-dimensional dynamical systems, particularly those described by nonlinear and complex network models. Such systems are typically comprised of a large number of interacting components, with their collective behavior leading to emergent phenomena such as synchronization. By using analytical and computational tools, my work aims to improve our understanding of the connections between different microscopic interaction patterns and observed macroscopic behavior, with applications in bio-physical and engineering systems across different domains.
     </p>
 
-!!! success "Publications"
+!!! success "Research Output"
     === "Journals"
         <ol align="justify" reversed>
         <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>]
@@ -30,12 +30,12 @@ hide:
 
     === "Submitted"
         <ol align="justify" reversed>
-        <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". April 2026. [<a href="https://arxiv.org/abs/2604.07707">Link</a>]
+        <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". April 2026. [<a href="git@github.com:dhrubajyoti95/dhrubajyoti95.github.io.git">Link</a>]
         </ol>
 
     For more details, check out my <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">Google Scholar</a>.
 
-!!! example "Others"
+!!! example "Academic Events"
     === "Conferences"
         <ol align="justify" reversed>
         <li> <b>Platinum Jubilee Conference on Contemporary Physics 2026</b>, IIT Kharagpur, India; <em>Contribution: Poster presentation</em>. [<a href="https://sites.google.com/view/jubilee-conference-physics2026/home">Link</a>]
@@ -52,7 +52,6 @@ hide:
 
     === "Schools/Workshops"
         <ol align="justify" reversed>
-        <li> <b>One-day workshop on Multiscale Modelling with MOOSE 2026</b>, TCG CREST, India. [<a href="https://www.mooseneuro.org/workshops/onedayworkshop-kolkata2026/">Link</a>]
         <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited oral presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>, <a href="https://www.youtube.com/watch?v=nWo3LeZeL3o">Video</a>]
         <li> <b>8th Mediterranean School of Complex Networks 2023</b>, Catania, Italy. [<a href="https://mediterraneanschoolcomplex.net/2023.html">Link</a>]
         <li> <b>Symposium on Epidemic Modelling 2022</b>, IIT Madras, India; <em>Contribution: Part of organization team</em>. [<a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">Link</a>]
