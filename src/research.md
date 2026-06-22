@@ -43,7 +43,7 @@ hide:
         <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
         <li> <b>Brain Network Dynamics Meeting 2024</b>, Ashoka University, India. [<a href="https://www.mbbslab.org/braindy-2024">Link</a>]
         <li> <b>WINQ Program on Complex and Quantum systems 2024</b>, NORDITA, Sweden; <em>Contribution: Oral presentation</em>. [<a href="https://indico.fysik.su.se/event/8139/page/616-week-1-dynamics-and-topology-of-complex-network-systems">Link</a>]
-        <li> <b>International Conference on Complex Networks and their Applications 2023</b>, France; <em>Contribution: Oral presentation</em>. [<a href="https://2023.complexnetworks.org/">Link</a>]
+        <li> <b>International Conference on Complex Networks and their Applications 2023</b>, France; <em>Contribution: Oral presentation (Presented by Sayan Gupta)</em>. [<a href="https://2023.complexnetworks.org/">Link</a>]
         <li> <b>3rd International Nonlinear Dynamics Conference 2023</b>, Rome, Italy; <em>Contribution: Oral presentation</em>. [<a href="https://nodycon.org/2023/">Link</a>]
         <li> <b>Perspectives in Nonlinear Dynamics 2023</b>, IIT Madras, India; <em>Contribution: Poster presentation</em> & <em>Part of organization team</em>. [<a href="https://web.iitm.ac.in/ccsd/workshops/pnld23/">Link</a>]
         <li> <b>Conference on Complex Systems 2021</b>, Lyon, France; <em>Contribution: Oral presentation (online)</em>. [<a href="https://ccs2021.univ-lyon1.fr/#HOME">Link</a>, <a href="https://youtu.be/mEFnagnaJ8o">Video</a>]
