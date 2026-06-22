@@ -13,15 +13,16 @@ hide:
 
     === "Experience"
         <ul align="justify" reversed>
-        <li>Postdoctoral Fellow<br><i>January 1, 2026 &mdash; <b>now</b></i> <br> <b>Indian Institute of Technology Kharagpur</b></li>
-        <li>Research Associate-I & Research Scientist-I <br><i>September 17, 2024 &mdash; December 30, 2025</i><br> <b>National Brain Research Centre Gurgaon</b></li>
-        <li>Research Intern<br><i>May 18, 2018 &mdash; July 13, 2018</i><br> <b>Indian Institute of Science Education and Research Kolkata</b></li>
+        <li>Postdoctoral Fellow<br>&#128197;<i>January 1, 2026 &mdash; <b>now</b></i> <br>&#128205;<b>Indian Institute of Technology Kharagpur</b></li>
+        <li>Research Associate-I & Research Scientist-I <br>&#128197;<i>September 17, 2024 &mdash; December 30, 2025</i><br>&#128205;<b>National Brain Research Centre Gurgaon</b></li>
+        <li>Research Intern<br>&#128197;<i>May 18, 2018 &mdash; July 13, 2018</i><br>&#128205;<b>Indian Institute of Science Education and Research Kolkata</b></li>
         </ul>
 
     === "Education"
         <ul align="justify" reversed>
-        <li>MSc-PhD (Dual Degree) in Physics <a href="/phd/index.html">[Link]</a><br> <i>July 24, 2017 &mdash; July 18, 2024</i><br> <b>Indian Institute of Technology Madras</b></li>
-        <li>BSc with Hons. in Physics<br><i>August 2, 2014 &mdash; June 30, 2017</i><br><b>St. Xavier's College, Kolkata</b></li>
+        <li>MSc-PhD (Dual Degree) in Physics <a href="/phd/index.html">[Link]</a><br>&#128197;<i>July 24, 2017 &mdash; July 18, 2024</i><br>&#128205;<b>Indian Institute of Technology Madras</b></li>
+        <li>BSc with Hons. in Physics<br>&#128197;<i>August 2, 2014 &mdash; June 30, 2017</i><br>&#128205;<b>St. Xavier's College, Kolkata</b></li>
+        <li>ICSE (2012) & ISC (2014) Examinations<br>&#128205;<b>Julien Day School Kalyani</b></li>
         </ul>
 
     For more details, take a look at my [resume](resume.md).
