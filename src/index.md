@@ -13,16 +13,16 @@ hide:
 
     === "Experience"
         <ul align="justify" reversed>
-        <li>Postdoctoral Fellow<br>&#128197;<i>January 1, 2026 &mdash; <b>now</b></i> <br>&#128205;<b>Indian Institute of Technology Kharagpur</b></li>
-        <li>Research Associate-I & Research Scientist-I <br>&#128197;<i>September 17, 2024 &mdash; December 30, 2025</i><br>&#128205;<b>National Brain Research Centre Gurgaon</b></li>
-        <li>Research Intern<br>&#128197;<i>May 18, 2018 &mdash; July 13, 2018</i><br>&#128205;<b>Indian Institute of Science Education and Research Kolkata</b></li>
+        <li><b>Postdoctoral Fellow</b><br>&#128197;<i>January 1, 2026 &mdash; now</i> <br>&#128205;Indian Institute of Technology Kharagpur</li>
+        <li><b>Research Associate-I</b>, <b>Research Scientist-I</b> <br>&#128197;<i>September 17, 2024 &mdash; December 30, 2025</i><br>&#128205;National Brain Research Centre Gurgaon</li>
+        <li><b>Research Intern</b><br>&#128197;<i>May 18, 2018 &mdash; July 13, 2018</i><br>&#128205;Indian Institute of Science Education and Research Kolkata</li>
         </ul>
 
     === "Education"
         <ul align="justify" reversed>
-        <li>MSc-PhD (Dual Degree) in Physics <a href="/phd/index.html">[Link]</a><br>&#128197;<i>July 24, 2017 &mdash; July 18, 2024</i><br>&#128205;<b>Indian Institute of Technology Madras</b></li>
-        <li>BSc with Hons. in Physics<br>&#128197;<i>August 2, 2014 &mdash; June 30, 2017</i><br>&#128205;<b>St. Xavier's College, Kolkata</b></li>
-        <li>ICSE (2012) & ISC (2014) Examinations<br>&#128205;<b>Julien Day School Kalyani</b></li>
+        <li><b>MSc-PhD (Dual Degree) in Physics</b> <a href="/phd/index.html">[Link]</a><br>&#128197;<i>July 24, 2017 &mdash; July 18, 2024</i><br>&#128205;Indian Institute of Technology Madras</li>
+        <li><b>BSc with Hons. in Physics</b><br>&#128197;<i>August 2, 2014 &mdash; June 30, 2017</i><br>&#128205;St. Xavier's College, Kolkata</li>
+        <li><b>ICSE (2012) & ISC (2014) Examinations</b><br>&#128205;Julien Day School Kalyani</li>
         </ul>
 
     For more details, take a look at my [resume](resume.md).
