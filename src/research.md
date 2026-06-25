@@ -13,6 +13,7 @@ hide:
 !!! success "Research Output"
     === "Journals"
         <ol align="justify" reversed>
+        <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". <i>Accepted in Chaos: An Interdisciplinary Journal of Nonlinear Science</i>. [<a href="http://arxiv.org/abs/2604.07707">Link</a>]
         <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>]
         <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth. "Effect of higher-order interactions on aging transitions of coupled neurons". <i>Chaos, Solitons & Fractals 200 (2025), p. 116977</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
         <li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>. "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator". <i>Phys. Rev. E 112 (2 Aug. 2025), p. 024207</i>. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
@@ -30,7 +31,7 @@ hide:
 
     === "Submitted"
         <ol align="justify" reversed>
-        <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions towards first synchronization time". April 2026. [<a href="git@github.com:dhrubajyoti95/dhrubajyoti95.github.io.git">Link</a>]
+        <li> None at the moment.
         </ol>
 
     For more details, check out my <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">Google Scholar</a>.
