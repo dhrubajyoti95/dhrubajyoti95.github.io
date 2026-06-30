@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+# Others
+
 !!! info "Awards & Grants"
     <ul align="justify">
     <li>Institute Postdoctoral Fellowship, IIT Kharagpur (Awarded: December 2025).

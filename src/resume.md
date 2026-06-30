@@ -5,6 +5,7 @@ hide:
   - navigation
 ---
 
+# Resume
 !!! note "Link"
     <p align="justify">Find my resume as a PDF <A href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">here</a>.</p>
 
