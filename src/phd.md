@@ -1,5 +1,5 @@
 ---
-title: Dr. Dhrubajyoti Biswas
+title:
 icon: lucide/backpack
 hide:
   - navigation
