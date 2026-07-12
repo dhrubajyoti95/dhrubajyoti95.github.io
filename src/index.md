@@ -21,7 +21,7 @@ hide:
 
     === "Education"
         <ul align="justify" reversed>
-        <li><b>MSc-PhD (Dual Degree) in Physics</b> <a href="/phd/index.html">[Link]</a><br>&#128197;<i>July 24, 2017 &mdash; July 18, 2024</i><br>&#128205;Indian Institute of Technology Madras</li>
+        <li><b>MSc-PhD (Dual Degree) in Physics</b> <a href="/phd/">[Link]</a><br>&#128197;<i>July 24, 2017 &mdash; July 18, 2024</i><br>&#128205;Indian Institute of Technology Madras</li>
         <li><b>BSc with Hons. in Physics</b><br>&#128197;<i>August 2, 2014 &mdash; June 30, 2017</i><br>&#128205;St. Xavier's College, Kolkata</li>
         <li><b>ICSE (2012) & ISC (2014) Examinations</b><br>&#128205;Julien Day School Kalyani</li>
         </ul>

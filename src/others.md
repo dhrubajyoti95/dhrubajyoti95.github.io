@@ -17,7 +17,7 @@ hide:
 
 !!! info "Service"
     <ul align="justify">
-    <li> Professional Development Mentor (approx. 15 students; 6 &mdash; 24 July, 2026), <a href="https://neuromatch.io/">Neuromatch Academy</a>
+    <li> Professional Development Mentor (17 students; 6 &mdash; 24 July, 2026), <a href="https://neuromatch.io/">Neuromatch Academy</a> <a href="/nma_material_2026/">[Link to files]</a>
     <li> Part of organizing team: <a href="https://web.iitm.ac.in/ccsd/workshops/pnld23/">PNLD 2023</a>, <a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">EpiSym 2022</a>, <a href="https://braindymeeting.github.io/v2026/">BraiNDy 2026</a>.
     <li> Reviewer for <em>Nature Communications</em>, <em>Chaos: An Interdisciplinary Journal of Nonlinear Science</em>, <em>NODYCON 2023 Conference Proceedings</em>.
     </ul>
