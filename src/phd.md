@@ -7,7 +7,7 @@ hide:
 
 # PhD Details
 
-!!! info "Title"
+!!! tip "Title"
     <p>Emergent Dynamics in Large-ordered Complex Systems</p>
 
 !!! abstract "Summary"
@@ -21,12 +21,12 @@ hide:
     <li> <a href="https://home.iitm.ac.in/sayan/">Prof. Sayan Gupta</a>, Department of Applied Mechanics and Biomedical Engineering, Indian Institute of Technology Madras.</p>
     </ul>
 
-!!! info "External Examiner"
+!!! question "External Examiner"
     <ul align="justify">
     <li> <a href="https://web.iisermohali.ac.in/dept/physics/Sudeshna_Sinha.html">Prof. Sudeshna Sinha</a>, Department of Physical Sciences, Indian Institute of Science Education and Research Mohali.
     </ul>
 
-!!! info "Timeline"
+!!! success "Timeline"
     <p align="justify"><b>Registration</b> (08th April, 2019) - <b>Submission</b> (24th June, 2024) - <b>Defence</b> (12th July, 2024) - <b>Award</b> (18th July, 2024).</p>
 
 !!! note "Links"

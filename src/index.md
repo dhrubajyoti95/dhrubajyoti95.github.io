@@ -8,25 +8,37 @@ hide:
 
 !!! success "Bio"
     <p align="justify">
-    Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>.
-    I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my MSc and PhD in Physics at the <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of complex dynamical systems.
+    Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>.</p>
+    
+    <p align="justify">
+    Previously, I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my MSc and PhD in Physics at the <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of complex dynamical systems.
     </p>
 
     === "Experience"
         <ul align="justify" reversed>
-        <li><b>Postdoctoral Fellow</b><br>&#128197;<i>January 1, 2026 &mdash; now</i> <br>&#128205;Indian Institute of Technology Kharagpur</li>
-        <li><b>Research Associate-I</b>, <b>Research Scientist-I</b> <br>&#128197;<i>September 17, 2024 &mdash; December 30, 2025</i><br>&#128205;National Brain Research Centre Gurgaon</li>
-        <li><b>Research Intern</b><br>&#128197;<i>May 18, 2018 &mdash; July 13, 2018</i><br>&#128205;Indian Institute of Science Education and Research Kolkata</li>
+        <li><b>Postdoctoral Fellow</b><br>
+        &#128197; <i>January 1, 2026 - now</i><br>
+        &#128205; Indian Institute of Technology Kharagpur</li>
+        <li><b>Research Associate-I</b>, <b>Research Scientist-I</b><br>
+        &#128197; <i>September 17, 2024 - December 30, 2025</i><br>
+        &#128205; National Brain Research Centre Gurgaon</li>
+        <li><b>Research Intern</b><br>
+        &#128197; <i>May 18, 2018 - July 13, 2018</i><br>
+        &#128205; Indian Institute of Science Education and Research Kolkata</li>
         </ul>
 
     === "Education"
         <ul align="justify" reversed>
-        <li><b>MSc-PhD (Dual Degree) in Physics</b> <a href="/phd/">[Link]</a><br>&#128197;<i>July 24, 2017 &mdash; July 18, 2024</i><br>&#128205;Indian Institute of Technology Madras</li>
-        <li><b>BSc with Hons. in Physics</b><br>&#128197;<i>August 2, 2014 &mdash; June 30, 2017</i><br>&#128205;St. Xavier's College, Kolkata</li>
-        <li><b>ICSE (2012) & ISC (2014) Examinations</b><br>&#128205;Julien Day School Kalyani</li>
+        <li><b>MSc-PhD (Dual Degree) in Physics</b> <a href="/phd/">[Link]</a><br>
+        &#128197; <i>July 24, 2017 - July 18, 2024</i><br>
+        &#128205; Indian Institute of Technology Madras</li>
+        <li><b>BSc with Hons. in Physics</b><br>
+        &#128197; <i>August 2, 2014 - June 30, 2017</i><br>
+        &#128205; St. Xavier's College, Kolkata</li>
+        <li><b>ICSE & ISC Examinations</b><br>
+        &#128197; <i>2012 - 2014</i><br>
+        &#128205; Julien Day School Kalyani</li>
         </ul>
-
-    For more details, take a look at my [resume](resume.md).
 
 !!! Note "Contact"
     <p align="justify">
