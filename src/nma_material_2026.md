@@ -7,7 +7,9 @@ hide:
 
 #
 
-!!! info "Documents"
+I have volunteered as a <a href="https://neuromatch.io/mentorship/">Professional Development Mentor</a> with Neuromatch for their computational neuroscience course.
+
+!!! info "Documents for 2026"
     <ul align="justify">
         <li> Introductory presentation PDF <a href="https://drive.google.com/file/d/1tENvCtKgO0YXZESutzZ0Wx-jR37tGqhg/view?usp=sharing">[Link]</a>.
         <li> Math & physics recommendations PDF <a href="https://drive.google.com/file/d/1XjeibQaHVoXDeqbbmgKQM6epSxTcAs2i/view?usp=sharing">[Link]</a>.

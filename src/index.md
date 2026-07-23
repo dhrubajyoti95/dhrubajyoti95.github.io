@@ -15,7 +15,7 @@ hide:
 
 !!! quote "Short Bio."
     <p align="justify">
-    <img src="pic4.jpg" style='width:100%;'>
+    <img src="pic1.jpg" style='width:100%;'>
     </p>
 
     <p align="justify">
