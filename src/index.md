@@ -13,7 +13,7 @@ hide:
 </style>
 # Home
 
-!!! quote "Short Bio."
+!!! quote "Bio."
     <p align="justify">
     <img src="pic1.jpg" style='width:100%;'>
     </p>
@@ -23,7 +23,7 @@ hide:
     </p>
 
 !!! success "Career"
-    === "Work Experience"
+    === "Experience"
         <ul align="justify" reversed>
         <li><b>Postdoctoral Fellow</b><br>
         &#128197; <i>January 1, 2026 - now</i><br>
