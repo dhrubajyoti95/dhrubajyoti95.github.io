@@ -13,7 +13,7 @@ hide:
 </style>
 # Home
 
-!!! quote "Bio."
+!!! quote "Bio"
     <p align="justify">
     <img src="pic1.jpg" style='width:100%;'>
     </p>
