@@ -4,6 +4,7 @@ icon: lucide/atom
 hide:
   - navigation
 ---
+
 # Research
 
 !!! quote "Overview"

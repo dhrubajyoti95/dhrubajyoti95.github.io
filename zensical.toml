@@ -14,11 +14,11 @@ extra_javascript = [
 ]
 
 nav = [
-   { "Home" = "index.md" },
+   { "About" = "index.md" },
    { "Research" = "research.md" },
    { "Teaching" = "teaching.md" },
-   { "Others" = "others.md" },
-   { "Resume" = "resume.md" }
+   { "Other stuff" = "others.md" },
+   { "CV" = "resume.md" }
 ]
 
 [project.theme]

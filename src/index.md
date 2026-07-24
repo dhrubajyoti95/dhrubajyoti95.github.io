@@ -1,5 +1,5 @@
 ---
-title:
+title: ""
 icon: lucide/square-user
 hide:
   - navigation
@@ -11,7 +11,8 @@ hide:
     }
 }
 </style>
-# Home
+
+# About
 
 !!! quote "Bio"
     <p align="justify">
@@ -28,8 +29,10 @@ hide:
         <li><b>Postdoctoral Fellow</b><br>
         &#128197; <i>January 1, 2026 - now</i><br>
         &#128205; Indian Institute of Technology Kharagpur</li>
-        <li><b>Research Associate-1</b>, <b>Research Scientist-1</b><br>
-        &#128197; <i>September 17, 2024 - December 30, 2025</i><br>
+        <li>(a) <b>Research Associate-1</b><br>
+        &#128197; <i>September 17, 2024 - April 21, 2025</i><br>
+        (b) <b>Research Scientist-1</b></br>
+        &#128197; <i>April 22, 2025 - December 30, 2025</i><br>
         &#128205; National Brain Research Centre Gurgaon</li>
         <li><b>Research Intern</b><br>
         &#128197; <i>May 18, 2018 - July 13, 2018</i><br>

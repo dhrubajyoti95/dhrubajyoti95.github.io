@@ -5,11 +5,11 @@ hide:
   - navigation
 ---
 
-# Others
+# Other stuff
 
 !!! info "Awards/Grants"
     <ul align="justify">
-    <li><b>Scholarships</b> - (1) Institute Postdoctoral Fellowship, IIT Kharagpur (Awarded: December 2025); (2) Institute Fellowship (HTRA) for PhD (2019 - 2024), IIT Madras; (3) Merit scholarship for MSc (2017 - 2019), IIT Madras.
+    <li><b>Scholarships</b> - (1) Institute Postdoctoral Fellowship, IIT Kharagpur (Awarded: December 2025); (2) Institute Doctoral Fellowship (HTRA), IIT Madras (2019 - 2024); (3) Merit scholarship for MSc, IIT Madras (2017 - 2019).
     <li><b>Travel grants</b> - (1) &dollar;600 to attend WINQ Program in Complex & Quantum Systems 2024 from NORDITA, Stockholm; (2) &euro;500 to attend QSYNC25 from MPI-PKS, Germany.
     <li><b>Prizes</b> - Awarded 1st prize (representing India), SEARCC ISSC 2012. <a href="https://drive.google.com/file/d/1prSSTmaBEpoaM3C4Ct2ShxLFX_cAhgtH/view?usp=sharing">[Link]</a>
     </ul>
