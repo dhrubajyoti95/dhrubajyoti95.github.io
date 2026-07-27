@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-#
+# Neuromatch Academy
 
 I have volunteered as a <a href="https://neuromatch.io/mentorship/">Professional Development Mentor</a> with Neuromatch for their computational neuroscience course.
 
