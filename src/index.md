@@ -22,6 +22,7 @@ hide:
     <p align="justify">
     Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my PhD (and MSc) in Physics at <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of complex dynamical systems.
     </p>
+    For more information, see my <a href="https://dhrubajyotibiswas.in/cv/">resume</a>.
 
 !!! success "Career"
     === "Experience"
@@ -38,7 +39,6 @@ hide:
         &#128197; <i>May 18, 2018 - July 13, 2018</i><br>
         &#128205; Indian Institute of Science Education and Research Kolkata</li>
         </ul>
-
     === "Education"
         <ul align="justify" reversed>
         <li><b>MSc+PhD (Dual Degree) in Physics</b> <a href="/phd/">[Link]</a><br>
@@ -51,8 +51,9 @@ hide:
         &#128197; <i>2012 - 2014</i><br>
         &#128205; Julien Day School Kalyani</li>
         </ul>
+    
 
-!!! Note "Contact"
+!!! info "Contact"
     <p align="justify">
     <b>Office</b>: Room C-113, IIT Kharagpur, West Bengal, 721302, India. <a href="https://maps.app.goo.gl/MpVKUL4dvfP38GXa7">[Location]</a></br>
     <b>Email</b>: <a href="mailto:dhrubajyotibiswas95@gmail.com">Personal</a>, <a href="mailto:dhrubajyoti@phy.iitkgp.ac.in">Work</a>, <a href="mailto:dhrubajyoti98@alumni.iitm.ac.in">Other</a>.
