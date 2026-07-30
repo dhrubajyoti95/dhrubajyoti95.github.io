@@ -14,6 +14,7 @@ hide:
 
 # About
 
+
 !!! quote "Bio"
     <p align="justify">
     <img src="imgs/pic1.jpg" style='width:100%;'>
@@ -23,6 +24,8 @@ hide:
     Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my PhD (and MSc) in Physics at <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of complex dynamical systems.
     </p>
     For more information, see my <a href="https://dhrubajyotibiswas.in/cv/">resume</a> and <a href="https://orcid.org/0000-0002-4474-2546">ORCID</a>.
+
+
 
 !!! success "Career"
     === "Experience"
