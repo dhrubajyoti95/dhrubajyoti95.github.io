@@ -7,13 +7,13 @@ hide:
 
 # Curated links
 
-!!! tip "Landmark papers"
+## Landmark papers
     
-!!! tip "Relevant conferences"
+## Relevant conferences
 
-!!! tip "Useful books"
+## Useful books
 
-!!! tip "Important computational tools"
+## Important computational tools
 
 
     

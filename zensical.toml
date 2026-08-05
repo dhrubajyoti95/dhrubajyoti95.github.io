@@ -17,7 +17,8 @@ nav = [
    { "About" = "index.md" },
    { "Research" = "research.md" },
    { "Teaching" = "teaching.md" },
-   { "Other stuff" = "other-stuff.md" }
+   { "Other stuff" = "other-stuff.md" },
+   { "Contact" = "contact.md"}
 ]
 
 [project.theme]
