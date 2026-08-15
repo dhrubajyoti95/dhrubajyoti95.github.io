@@ -9,8 +9,7 @@ hide:
 
 <p align="justify">
 <b>Dhrubajyoti Biswas, PhD</b><br>
-Postdoctoral Fellow<br> 
-Department of Physics,<br>
+Postdoctoral Fellow, Department of Physics,<br>
 Indian Institute of Technology, Kharagpur,<br>
 West Bengal, PIN 721302, India.
 </p>

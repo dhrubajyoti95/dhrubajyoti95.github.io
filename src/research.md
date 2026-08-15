@@ -11,9 +11,7 @@ hide:
 <p align="justify">
 My research primarily deals with high-dimensional dynamical systems, particularly those described by nonlinear and complex network models. Such systems are typically comprised of a large number of interacting components, with their collective behavior leading to emergent phenomena such as synchronization. By using analytical and computational tools, my work aims to improve our understanding of the connections between different microscopic interaction patterns and observed macroscopic behavior, with applications in bio-physical and engineering systems.
 </p>
-<p align="justify">
-For more details, check out my <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">Google Scholar</a>.
-</p>
+
 
 ## Research Output
 
@@ -70,3 +68,8 @@ For more details, check out my <a href="https://scholar.google.co.in/citations?u
     <li> <b>ACM Winter School on HPC 2019</b>, IIT Kanpur, India. [<a href="https://cse.iitk.ac.in/users/pmalakar/acmwshpc2019.html">Link</a>]
     <li> <b>National Summer School on Statistical Physics 2018</b>, SNBNCBS, Kolkata. [<a href="https://www.bose.res.in/Conferences/NSS2018/">Link</a>]
     </ol>
+
+!!! note "Links"
+    <p align="justify">
+    For more details, check out my <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">Google Scholar</a>.
+    </p>
