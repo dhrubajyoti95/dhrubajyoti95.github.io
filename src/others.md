@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-# Other stuff
+# Others
 
 ## Awards/Grants/Scholarships
 <ul align="justify">
@@ -17,10 +17,10 @@ hide:
 
 ## Service
 <ul align="justify">
-<li> <b>Volunteer</b> - Professional Development Mentor (Neuromatch; 2026). <a href="/nma_material_2026/">[Link]</a>
-<li> <b>Event Organization</b> - <a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">EpiSym 2022</a>, <a href="https://web.iitm.ac.in/ccsd/workshops/pnld23/">PNLD 2023</a>, <a href="https://braindymeeting.github.io/v2026/">BraiNDy 2026</a>, <a href="https://sites.google.com/view/computational-oncology-2026">CMMTO 2026</a>.
 <li> <b>Journals/Conferences Reviewer</b> - (1) Nature Communications, (2) Chaos: An Interdisciplinary Journal of Nonlinear Science (AIP), (3) NODYCON Proceedings (Springer), (4) Chinese Journal of Physics (Elsevier).
-<li> <b>Programs/Grants Reviewer</b> - (1) Impact Scholars Program (Neuromatch).
+<li> <b>Programs/Grants Reviewer</b> - (1) Impact Scholars Program (Neuromatch; 2026).
+<li> <b>Volunteer</b> - (1) Professional Development Mentor (Neuromatch; 2026). <a href="/nma_material_2026/">[Link]</a>
+<li> <b>Event Organization</b> - <a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">EpiSym 2022</a>, <a href="https://web.iitm.ac.in/ccsd/workshops/pnld23/">PNLD 2023</a>, <a href="https://braindymeeting.github.io/v2026/">BraiNDy 2026</a>, <a href="https://sites.google.com/view/computational-oncology-2026">CMMTO 2026</a>.
 </ul>
 
 ## Memberships

@@ -13,12 +13,12 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 </p>
 
 
-## Research Output
+## Publications
 
 === "Journals"
     <ol align="justify" reversed>
-    <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions toward first synchronization time”. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 36.7 (July 2026), p. 071102</i>. [<a href="https://doi.org/10.1063/5.0337306">Link</a>]
-    <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>]
+    <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions toward first synchronization time”. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 36.7 (July 2026), p. 071102</i>. [<a href="https://doi.org/10.1063/5.0337306">Link</a>] (Published as a <a href="https://pubs.aip.org/aip/cha/search-results?page=1&f_Subjects=Fast+Track">Fast Track</a> article.)
+    <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>] (Published as a part of a special issue on <a href="https://www.sciencedirect.com/special-issue/10N1WWXC94V">Routes to synchronization</a>.)
     <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth. "Effect of higher-order interactions on aging transitions of coupled neurons". <i>Chaos, Solitons & Fractals 200 (2025), p. 116977</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
     <li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>. "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator". <i>Phys. Rev. E 112 (2 Aug. 2025), p. 024207</i>. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
     <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Symmetry-breaking higher-order interactions in coupled phase oscillators". <i>Chaos, Solitons & Fractals 181 (2024), p. 114721</i>. [<a href="https://doi.org/10.1016/j.chaos.2024.114721">Link</a>]
@@ -40,10 +40,10 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 
 
 
-## Academic Events
+## Events
 === "Conferences"
     <ol align="justify" reversed>
-    <li> <b>Platinum Jubilee Conference on Contemporary Physics 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/jubilee-conference-physics2026/home">Link</a>]<br> <em>Contribution: Poster presentation.</em>
+    <li> <b>Platinum Jubilee Conference on Contemporary Physics 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/jubilee-conference-physics2026/home">Link</a>]<br> <em>Contribution: Poster presentation</em> & <em>Part of organization team</em>.
     <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]<br> <em>Contribution: Invited oral presentation</em> & <em>Part of organization team</em>. 
     <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]<br> <em>Contribution: Poster presentation</em>. 
     <li> <b>Brain Network Dynamics Meeting 2024</b>, Ashoka University, India. [<a href="https://www.mbbslab.org/braindy-2024">Link</a>]
@@ -55,7 +55,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
     <li> <b>Conference on Nonlinear Systems and Dynamics 2019</b>, IIT Kanpur, India. [<a href="https://sites.google.com/view/cnsd19/">Link</a>]<br> <em>Contribution: Poster presentation</em>.
     </ol>
 
-=== "Schools/Workshops"
+=== "Others"
     <ol align="justify" reversed>
     <li> <b>Computational Modelling Meets Translational Oncology 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/computational-oncology-2026/home">Link</a>]<br> <em>Contribution: Part of organization team</em>.
     <li> <b>Workshop on Multiscale Modeling with MOOSE 2026</b>, TCG CREST, India. [<a href="https://www.mooseneuro.org/workshops/onedayworkshop-kolkata2026/">Link</a>] 
