@@ -1,13 +1,13 @@
 ---
 title:
-icon: lucide/backpack
+icon: lucide/layers
 hide:
   - navigation
 ---
 
 # Others
 
-## Awards/Grants/Scholarships
+## Awards/Scholarships
 
 <ul align="justify">
 <li><b>Scholarships</b> - (1) Institute Postdoctoral Fellowship, IIT Kharagpur (Awarded: December 2025); (2) Institute Doctoral Fellowship (HTRA), IIT Madras (2019 - 2024); (3) Merit scholarship for MSc, IIT Madras (2017 - 2019).

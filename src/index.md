@@ -53,4 +53,4 @@ Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a
     </ol>
 
 !!! note "Links"
-    For more information, see my <a href="https://dhrubajyotibiswas.in/cv/">resume</a> and <a href="https://orcid.org/0000-0002-4474-2546">ORCID</a>.
+    For more information, see my detailed <a href="https://dhrubajyotibiswas.in/cv/">CV</a> and <a href="https://orcid.org/0000-0002-4474-2546">ORCID</a>.

@@ -25,6 +25,7 @@ nav = [
 favicon="favicon.ico"
 language = "en"
 scheme="slate"
+custom_dir="overrides"
 
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
@@ -80,12 +81,12 @@ features = [
     # With this feature enabled, Zensical will automatically hide parts
     # of the header when the user scrolls past a certain point.
     # https://zensical.org/docs/setup/header/#automatic-hiding
-    # "header.autohide",
+    "header.autohide",
 
     # Turn on this feature to expand all collapsible sections in the
     # navigation sidebar by default.
     # https://zensical.org/docs/setup/navigation/#navigation-expansion
-    # "navigation.expand",
+    "navigation.expand",
 
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.

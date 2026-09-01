@@ -1,6 +1,6 @@
 ---
 title:
-icon: lucide/book-type
+icon: lucide/mail
 hide:
   - navigation
 ---
