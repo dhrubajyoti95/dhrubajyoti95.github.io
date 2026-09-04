@@ -43,6 +43,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 ## Events
 === "Conferences"
     <ol align="justify" reversed>
+    <li> <b>Stat. Mech. Meet Kolkata 2026</b>, SNBNCBS Kolkata, India. [<a href="coming_soon.com">Link</a>]<br> <em>Contribution: Oral presentation</em>.
     <li> <b>Platinum Jubilee Conference on Contemporary Physics 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/jubilee-conference-physics2026/home">Link</a>]<br> <em>Contribution: Poster presentation</em> & <em>Part of organization team</em>.
     <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]<br> <em>Contribution: Invited oral presentation</em> & <em>Part of organization team</em>. 
     <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]<br> <em>Contribution: Poster presentation</em>. 
@@ -57,7 +58,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 
 === "Others"
     <ol align="justify" reversed>
-    <li> <b>Computational Modelling Meets Translational Oncology 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/computational-oncology-2026/home">Link</a>]<br> <em>Contribution: Part of organization team</em>.
+    <li> <b>Workshop on Computational Modelling Meets Translational Oncology 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/computational-oncology-2026/home">Link</a>]<br> <em>Contribution: Part of organization team</em>.
     <li> <b>Workshop on Multiscale Modeling with MOOSE 2026</b>, TCG CREST, India. [<a href="https://www.mooseneuro.org/workshops/onedayworkshop-kolkata2026/">Link</a>] 
     <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>, <a href="https://www.youtube.com/watch?v=nWo3LeZeL3o">Video</a>]<br> <em>Contribution: Invited oral presentation</em>.
     <li> <b>8th Mediterranean School of Complex Networks 2023</b>, Catania, Italy. [<a href="https://mediterraneanschoolcomplex.net/2023.html">Link</a>]
