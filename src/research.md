@@ -17,8 +17,8 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 
 === "Journals"
     <ol align="justify" reversed>
-    <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions toward first synchronization time”. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 36.7 (July 2026), p. 071102</i>. [<a href="https://doi.org/10.1063/5.0337306">Link</a>] [Published as a <a href="https://pubs.aip.org/aip/cha/search-results?page=1&f_Subjects=Fast+Track">Fast Track</a> article]
-    <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>] [Published as a part of a special issue on <a href="https://www.sciencedirect.com/special-issue/10N1WWXC94V">Routes to synchronization</a>]
+    <li> <b>Dhrubajyoti Biswas</b>, Pintu Patra, and Arpan Banerjee. "On the role of higher-order interactions toward first synchronization time”. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 36.7 (July 2026), p. 071102</i>. [<a href="https://doi.org/10.1063/5.0337306">Link</a>] <span style="color: gray;">[Published as a <a href="https://pubs.aip.org/aip/cha/search-results?page=1&f_Subjects=Fast+Track">Fast Track</a> article]</span>
+    <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>] <span style="color: gray;">[Published as a part of a special issue on <a href="https://www.sciencedirect.com/special-issue/10N1WWXC94V">Routes to synchronization</a>]</span>
     <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth. "Effect of higher-order interactions on aging transitions of coupled neurons". <i>Chaos, Solitons & Fractals 200 (2025), p. 116977</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
     <li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>. "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator". <i>Phys. Rev. E 112 (2 Aug. 2025), p. 024207</i>. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
     <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Symmetry-breaking higher-order interactions in coupled phase oscillators". <i>Chaos, Solitons & Fractals 181 (2024), p. 114721</i>. [<a href="https://doi.org/10.1016/j.chaos.2024.114721">Link</a>]
@@ -34,35 +34,35 @@ My research primarily deals with high-dimensional dynamical systems, particularl
     </ol>
 
 === "Submitted"
+    None at the moment.
     <ol align="justify" reversed>
-    <li> None at the moment.
     </ol>
 
 
 
-## Events
+## Academic Events
 === "Conferences"
     <ol align="justify" reversed>
-    <li> <b>Stat. Mech. Meet Kolkata 2026</b>, SNBNCBS Kolkata, India. [<a href="coming_soon.com">Link</a>]<br> <em>Contribution: Oral presentation</em>.
-    <li> <b>Platinum Jubilee Conference on Contemporary Physics 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/jubilee-conference-physics2026/home">Link</a>]<br> <em>Contribution: Poster presentation</em> & <em>Part of organization team</em>.
-    <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]<br> <em>Contribution: Invited oral presentation</em> & <em>Part of organization team</em>. 
-    <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]<br> <em>Contribution: Poster presentation</em>. 
+    <li> <b>Stat. Mech. Meet Kolkata 2026</b>, SNBNCBS Kolkata, India. [<a href="coming_soon.com">Link</a>]<br> <span style="color: gray;">Contribution: Oral presentation</span>.
+    <li> <b>Platinum Jubilee Conference on Contemporary Physics 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/jubilee-conference-physics2026/home">Link</a>]<br> <span style="color: gray;">Contribution: Poster presentation & Part of organization team</span>.
+    <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]<br> <span style="color: gray;">Contribution: Invited oral presentation & Part of organization team</span>. 
+    <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]<br> <span style="color: gray;">Contribution: Poster presentation</span>. 
     <li> <b>Brain Network Dynamics Meeting 2024</b>, Ashoka University, India. [<a href="https://www.mbbslab.org/braindy-2024">Link</a>]
-    <li> <b>WINQ Program on Complex and Quantum systems 2024</b>, NORDITA, Sweden. [<a href="https://indico.fysik.su.se/event/8139/page/616-week-1-dynamics-and-topology-of-complex-network-systems">Link</a>]<br> <em>Contribution: Oral presentation</em>.
-    <li> <b>International Conference on Complex Networks and their Applications 2023</b>, France. [<a href="https://2023.complexnetworks.org/">Link</a>]<br> <em>Contribution: Oral presentation (Presented by Sayan Gupta)</em>. 
-    <li> <b>3rd International Nonlinear Dynamics Conference 2023</b>, Rome, Italy. [<a href="https://nodycon.org/2023/">Link</a>]<br> <em>Contribution: Oral presentation</em>. 
-    <li> <b>Perspectives in Nonlinear Dynamics 2023</b>, IIT Madras, India. [<a href="https://web.iitm.ac.in/ccsd/workshops/pnld23/">Link</a>]<br> <em>Contribution: Poster presentation</em> & <em>Part of organization team</em>. 
-    <li> <b>Conference on Complex Systems 2021</b>, Lyon, France. [<a href="https://ccs2021.univ-lyon1.fr/#HOME">Link</a>, <a href="https://youtu.be/mEFnagnaJ8o">Video</a>]<br> <em>Contribution: Oral presentation (online)</em>.
-    <li> <b>Conference on Nonlinear Systems and Dynamics 2019</b>, IIT Kanpur, India. [<a href="https://sites.google.com/view/cnsd19/">Link</a>]<br> <em>Contribution: Poster presentation</em>.
+    <li> <b>WINQ Program on Complex and Quantum systems 2024</b>, NORDITA, Sweden. [<a href="https://indico.fysik.su.se/event/8139/page/616-week-1-dynamics-and-topology-of-complex-network-systems">Link</a>]<br> <span style="color: gray;">Contribution: Oral presentation</span>.
+    <li> <b>International Conference on Complex Networks and their Applications 2023</b>, France. [<a href="https://2023.complexnetworks.org/">Link</a>]<br> <span style="color: gray;">Contribution: Oral presentation (Presented by Sayan Gupta)</span>. 
+    <li> <b>3rd International Nonlinear Dynamics Conference 2023</b>, Rome, Italy. [<a href="https://nodycon.org/2023/">Link</a>]<br> <span style="color: gray;">Contribution: Oral presentation</span>. 
+    <li> <b>Perspectives in Nonlinear Dynamics 2023</b>, IIT Madras, India. [<a href="https://web.iitm.ac.in/ccsd/workshops/pnld23/">Link</a>]<br> <span style="color: gray;">Contribution: Poster presentation & Part of organization team</span>. 
+    <li> <b>Conference on Complex Systems 2021</b>, Lyon, France. [<a href="https://ccs2021.univ-lyon1.fr/#HOME">Link</a>, <a href="https://youtu.be/mEFnagnaJ8o">Video</a>]<br> <span style="color: gray;">Contribution: Oral presentation (online)</span>.
+    <li> <b>Conference on Nonlinear Systems and Dynamics 2019</b>, IIT Kanpur, India. [<a href="https://sites.google.com/view/cnsd19/">Link</a>]<br> <span style="color: gray;">Contribution: Poster presentation</span>.
     </ol>
 
-=== "Others"
+=== "Workshops/Others"
     <ol align="justify" reversed>
-    <li> <b>Workshop on Computational Modelling Meets Translational Oncology 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/computational-oncology-2026/home">Link</a>]<br> <em>Contribution: Part of organization team</em>.
+    <li> <b>Workshop on Computational Modelling Meets Translational Oncology 2026</b>, IIT Kharagpur, India. [<a href="https://sites.google.com/view/computational-oncology-2026/home">Link</a>]<br> <span style="color: gray;">Contribution: Part of organization team</span>.
     <li> <b>Workshop on Multiscale Modeling with MOOSE 2026</b>, TCG CREST, India. [<a href="https://www.mooseneuro.org/workshops/onedayworkshop-kolkata2026/">Link</a>] 
-    <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>, <a href="https://www.youtube.com/watch?v=nWo3LeZeL3o">Video</a>]<br> <em>Contribution: Invited oral presentation</em>.
+    <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>, <a href="https://www.youtube.com/watch?v=nWo3LeZeL3o">Video</a>]<br> <span style="color: gray;">Contribution: Invited oral presentation</span>.
     <li> <b>8th Mediterranean School of Complex Networks 2023</b>, Catania, Italy. [<a href="https://mediterraneanschoolcomplex.net/2023.html">Link</a>]
-    <li> <b>Symposium on Epidemic Modelling 2022</b>, IIT Madras, India. [<a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">Link</a>]<br> <em>Contribution: Part of organization team</em>. 
+    <li> <b>Symposium on Epidemic Modelling 2022</b>, IIT Madras, India. [<a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">Link</a>]<br> <span style="color: gray;">Contribution: Part of organization team</span>. 
     <li> <b>NSM Workshop on HPC 2022</b>, IIT Bombay, India. [<a href="https://www.me.iitb.ac.in/~sgopalak/nsmhpccfd2022/">Link</a>]
     <li> <b>NSM Course on GPU Programming with OpenACC 2022</b>, IIT Madras (held online). [<a href="https://www.cse.iitm.ac.in/~rupesh/events/openacc2022/">Link</a>]
     <li> <b>Bangalore School of Statistical Physics 2020</b>, ICTS Bangalore, India (held online). [<a href="https://www.icts.res.in/program/bssp2020">Link</a>]

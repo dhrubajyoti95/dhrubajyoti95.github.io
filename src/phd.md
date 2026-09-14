@@ -5,12 +5,12 @@ hide:
   - navigation
 ---
 
-# PhD Details
+# Details of PhD
 
-## Title
+## Thesis Title
 <p>Emergent Dynamics in Large-ordered Complex Systems</p>
 
-## Summary
+## Thesis Summary
 <p align="justify">
 This thesis explores the occurrence of emergent phenomena in various high-dimensional dynamical systems. In particular, it investigates the phenomena of synchronization through Kuramoto oscillators as well as ageing transitions via coupled Rulkov neurons, emphasizing how the characteristics of the interactions between different system components influence its long-term dynamics. The first part of the thesis explores extensions of the Kuramoto model which include different combinations of unidirectional, adaptive, multilayered, and higher-ordered coupling schemes. For such models, analytical estimates for the critical transition points are obtained using the Ott-Antonsen ansatz and other techniques. The results also indicate different routes to synchrony including continuous, explosive, and tiered transitions, which are then verified through numerical simulations. The next part of the thesis considers a model consisting of coupled Rulkov neurons, the parameters of which are modified to induce dynamical ageing. In this setting, the interplay between the connectivity and coupling strength is investigated, showcasing their effects on ageing transitions. The effect of fluctuations are also examined and shown to reduce the occurrence of explosive ageing transitions in the network. Finally, the thesis also presents the computational developments implemented to increase the efficiency of large-scale simulations of dynamical systems. This is achieved through parallelization of the numerical algorithms used for integrating ordinary differential equations by utilizing multiple GPUs. The developments have been benchmarked and have been shown to result in a major speedup in execution and can be utilized for simulating a large class of other dynamical systems.
 </p>
@@ -21,12 +21,21 @@ This thesis explores the occurrence of emergent phenomena in various high-dimens
 <li> <a href="https://home.iitm.ac.in/sayan/">Prof. Sayan Gupta</a>, Department of Applied Mechanics and Biomedical Engineering, Indian Institute of Technology Madras.</p>
 </ul>
 
+## Doctoral Committee
+<ul align="justify">
+<li> <b>Chair</b> - <a href="https://iitpkd.ac.in/people/manojgopal">Prof. Manoj Gopalakrishnan</a>, Department of Physics, Indian Institute of Technology Madras. (Currently, Professor at IIT Palakkad)
+<li> <a href="https://physics.iitm.ac.in/research/theoreticalcondensedmatterphysics/rajeshnarayanan.html">Prof. Rajesh Narayanan</a>, Department of Physics, Indian Institute of Technology Madras.
+<li> <a href="https://physics.iitm.ac.in/~ashwin/">Prof. Ashwin Joy</a>, Department of Physics, Indian Institute of Technology Madras.
+<li> <a href="https://www.ee.iitm.ac.in/vishwa/">Prof. Puduru Viswanadha Reddy</a>, Department of Electrical Engineering, Indian Institute of Technology Madras.
+
+</ul>
+
 ## External Examiner
 <p align="justify"><a href="https://web.iisermohali.ac.in/dept/physics/Sudeshna_Sinha.html">Prof. Sudeshna Sinha</a>, Department of Physical Sciences, Indian Institute of Science Education and Research Mohali.</p>
 
 
 ## Timeline
-<p align="justify"><b>Registration</b> (08th April, 2019) - <b>Submission</b> (24th June, 2024) - <b>Defence</b> (12th July, 2024) - <b>Award</b> (18th July, 2024).</p>
+<p align="justify"><b>Registration</b> (08th Apr, 2019) - <b>Submission</b> (24th Jun, 2024) - <b>Defence</b> (12th Jul, 2024) - <b>Award</b> (18th Jul, 2024).</p>
 
 !!! note "Links"
     Thesis - (a) <a href="https://shodhganga.inflibnet.ac.in/handle/10603/609844">Chapterwise PDFs</a>, via Shodhganga; (b) <a href="https://drive.google.com/file/d/1QKxT6dzrUIS2vTrCPzieXgS76XzqxmlU/view?usp=sharing">Compiled PDF</a>, via Google Drive.
