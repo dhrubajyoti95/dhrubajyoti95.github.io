@@ -28,11 +28,13 @@ hide:
 ## Memberships
 
 <ul align="justify">
-<li><a href="https://www.aps.org/">American Physical Society</a> (January 2023 - <b>now</b>), <a href="https://www.iop.org/">Institute of Physics, UK</a> (January 2025 - <b>now</b>), <a href="https://cssociety.org/">Complex Systems Society</a> (June 2026 - <b>now</b>)
+<li><a href="https://www.aps.org/">American Physical Society</a> (January 2023 - <b>now</b>)</li>
+<li> <a href="https://www.iop.org/">Institute of Physics, UK</a> (January 2025 - <b>now</b>)</li>
+<li> <a href="https://cssociety.org/">Complex Systems Society</a> (June 2026 - <b>now</b>)</li>
 </ul>
 
 !!! note "Curated Links"
     <p align="justify">
-    Relevant conferences, papers, preprints, notes, etc., which I find interesting and useful. <a href="/links/">[Link]</a>
+    Relevant conferences, papers, preprints, notes, etc., which I find to be interesting and useful. <a href="/links/">[Link]</a>
     </p>
 
