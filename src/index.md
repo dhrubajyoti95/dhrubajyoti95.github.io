@@ -21,9 +21,7 @@ hide:
 </p>
 
 <p align="justify">
-Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">BRIC-NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my PhD (and MSc) in Physics at <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of complex systems.<br><br>
-
-For more information, see my detailed <a href="https://dhrubajyotibiswas.in/cv/">CV</a> and/or <a href="https://orcid.org/0000-0002-4474-2546">ORCID</a>.
+Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">BRIC-NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my PhD (and MSc) in Physics at <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of complex systems.
 </p>
 
 ## Career
@@ -46,11 +44,11 @@ For more information, see my detailed <a href="https://dhrubajyotibiswas.in/cv/"
     </ol>
 === "Education"
     <ol align="justify" reversed>
-    <li><b>MSc & PhD (Dual Degree) in Physics</b> <a href="/phd/">[Link]</a><br>
+    <li><b>M.Sc.</b> and <b>Ph.D. (Dual Degree) in Physics</b> <a href="/phd/">[Link]</a><br>
     <span style="color: gray;">Duration -</span> Jul 24, 2017 - Jul 18, 2024<br>
     <span style="color: gray;">Institute -</span> IIT Madras<br>
     <span style="color: gray;">Advisors -</span> Prof. Sayan Gupta, Prof. Vaibhav Madhok</li>
-    <li><b>BSc w/ Hons. in Physics</b><br>
+    <li><b>B.Sc.</b> with <b>Hons. in Physics</b><br>
     <span style="color: gray;"> Duration -</span> Aug 2, 2014 - Jun 30, 2017<br>
     <span style="color: gray;">College -</span> St. Xavier's College, Kolkata (Univ. of Calcutta)<br>
     <span style="color: gray;">Advisor -</span> Prof. Shibaji Banerjee</li>
