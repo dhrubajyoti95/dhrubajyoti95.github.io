@@ -7,7 +7,7 @@ hide:
 
 # Curriculum Vitae
 
-<iframe src="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/preview#toolbar=1" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/preview#toolbar=1" width="100%" height="1000px" style="border:none;"></iframe>
 
 <p align="justify">If the above does not work, use the link <A href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">here</a> or see my <a href="https://orcid.org/0000-0002-4474-2546">ORCID</a>.</p>
 
