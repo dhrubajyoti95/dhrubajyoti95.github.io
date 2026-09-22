@@ -4,20 +4,15 @@ icon: lucide/square-user
 hide:
   - navigation
 ---
-<style>
-@media (min-width: 500px) {
-    img {
-        display: none;
-    }
-}
-</style>
+
+
 
 # About
 
 
 ## Bio
 <p align="justify">
-<img src="imgs/pic1.jpg" style='width:100%;'>
+<img src="imgs/pic1.jpg" style="width: 100%; max-width: 250px;">
 </p>
 
 <p align="justify">
@@ -57,3 +52,12 @@ Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a
     <span style="color: gray;">School -</span> JDS Kalyani (CISCE, New Delhi)</li>
     </ol>
     
+## Contact 
+
+<p align="justify">
+<b>Name</b> - Dhrubajyoti Biswas, PhD<br>
+<b>Affiliation</b> - Postdoctoral Fellow, Department of Physics, IIT Kharagpur<br>
+<b>Office Address</b> - Room C-113, IIT Kharagpur, West Bengal, 721302, India.</br>
+<b>Phone</b> - +91-9836705913, +91-9840916811<br>
+<b>Email Address</b> - <a href="mailto:dhrubajyotibiswas95@gmail.com">Personal</a>, <a href="mailto:dhrubajyoti@phy.iitkgp.ac.in">Work</a>, <a href="mailto:dhrubajyoti98@alumni.iitm.ac.in">Other</a>.
+</p>
