@@ -7,7 +7,7 @@ hide:
 
 # Neuromatch Academy
 
-I have volunteered as a <a href="https://neuromatch.io/mentorship/">Professional Development Mentor</a> with Neuromatch for their computational neuroscience course.
+I have volunteered as a <a href="https://neuromatch.io/mentorship/">Professional Development Mentor</a> with Neuromatch for their computational neuroscience course. For more details regarding my work with Neuromatch, email me at <a href="mailto:dhrubajyoti.biswas@neuromatch.io">dhrubajyoti.biswas@neuromatch.io</a>.
 
 ## Documents for 2026
 <ul align="justify">
